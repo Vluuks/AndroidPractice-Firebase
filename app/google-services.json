@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865213300056",
+    "firebase_url": "https://fir-hetexperiment.firebaseio.com",
+    "project_id": "fir-hetexperiment",
+    "storage_bucket": "fir-hetexperiment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865213300056:android:52c027cdfb163140",
+        "android_client_info": {
+          "package_name": "com.example.renske.firebase_het_experiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865213300056-tgufqau6o7i06vg1bah4a4dur3s4qc5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renske.firebase_het_experiment",
+            "certificate_hash": "670532C340FEB012504200D91BAED5EF84025699"
+          }
+        },
+        {
+          "client_id": "865213300056-injv0t4e86kq1vk1ngev4atojjq1mvt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hisrnIzal3OGYap_K8zqrFS-hMepvCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865213300056-injv0t4e86kq1vk1ngev4atojjq1mvt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
